@@ -1,4 +1,4 @@
-# Anime Recommendation System API
+   # Anime Recommendation System API
 
 This project is a Django REST Framework-based API that integrates with the AniList GraphQL API to provide anime search functionality, personalized recommendations, and user preference management.
 
@@ -32,8 +32,7 @@ Ensure you have the following installed:
 
 3. Set up your environment variables: Create a .env file in the project root and configure the following:
 
-   ```env
-   
+```bash
  DB_NAME=
  DB_USER=
  DB_PASSWORD=
