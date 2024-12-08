@@ -33,7 +33,7 @@ Ensure you have the following installed:
 3. Set up your environment variables: Create a .env file in the project root and configure the following:
 
    ```env
-   
+```bash
  DB_NAME=
  DB_USER=
  DB_PASSWORD=
